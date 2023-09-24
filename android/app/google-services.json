@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28211538128",
+    "project_id": "anglara-tech-task",
+    "storage_bucket": "anglara-tech-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28211538128:android:40c7545e582211e94e96d5",
+        "android_client_info": {
+          "package_name": "com.example.anglara_tech_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPHaidUP7drX3lQHfrzAe1A23tLlZ-Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
